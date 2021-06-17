@@ -1,0 +1,39 @@
+{
+    "name": "gdgshop",
+    "version": "1.0.0",
+    "description": "API REST EXPRESS",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/guilleheizen/GDGShop.git"
+    },
+    "keywords": [
+        "express",
+        "node",
+        "api",
+        "rest",
+        "gdg",
+        "shop"
+    ],
+    "author": "Guille Heizen",
+    "license": "GNU v3.0",
+    "bugs": {
+        "url": "https://github.com/guilleheizen/GDGShop/issues"
+    },
+    "homepage": "https://github.com/guilleheizen/GDGShop#readme",
+    "devDependencies": {
+        "@types/express": "^4.17.12",
+        "@typescript-eslint/eslint-plugin": "^4.27.0",
+        "@typescript-eslint/parser": "^4.27.0",
+        "eslint": "^7.28.0",
+        "eslint-config-google": "^0.14.0",
+        "typescript": "^4.3.3"
+    },
+    "dependencies": {
+        "express": "^4.17.1",
+        "mysql2": "^2.2.5"
+    }
+}
