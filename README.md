@@ -2,13 +2,13 @@
 ![API REST EXPRESS TYPESCRIPT](https://raw.githubusercontent.com/guilleheizen/GDGShop/main/presentacion/01.jpg)
 
 ## Herramientas que vamos a necesitar
-> Instalar NodeJs
-> Instalar Visual Studio Code
-> Gestor Para usar Mysql (Wamp)
-> Thunder Client para VScode
-> Terminal para VScode
-> Nodemon
-> Typescript
+* Instalar NodeJs
+* Instalar Visual Studio Code
+* Gestor Para usar Mysql (Wamp)
+* Thunder Client para VScode
+* Terminal para VScode
+* Nodemon
+* Typescript
 
 ## Empecemos.
 Vamos a verificar en la consola si tenemos instalado todo lo necesario para empezar
