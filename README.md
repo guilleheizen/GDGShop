@@ -1,5 +1,5 @@
 # GDGShop
-![alt text](https://github.com/guilleheizen/gdgshop/presentacion/01.jpg)
+![API REST EXPRESS TYPESCRIPT](https://raw.githubusercontent.com/guilleheizen/GDGShop/main/presentacion/01.jpg)
 
 ## Herramientas que vamos a necesitar
 > Instalar NodeJs
@@ -49,4 +49,4 @@ Con estas configuraciones ya podemos comenzar a montar nuestro servidor.
 
 ### Con todo esto ya tenemos lo necesario para trabajar en nuestro proyecto.
 
-![alt text](https://github.com/guilleheizen/gdgshop/presentacion/09.jpg)
+![LET'S CODE!](https://raw.githubusercontent.com/guilleheizen/GDGShop/main/presentacion/09.jpg)
