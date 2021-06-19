@@ -1,5 +1,6 @@
 # GDGShop
-API REST server in Express and typescript
+![alt text](https://github.com/guilleheizen/gdgshop/presentacion/01.jpg)
+
 ## Herramientas que vamos a necesitar
 > Instalar NodeJs
 > Instalar Visual Studio Code
@@ -47,3 +48,5 @@ Con estas configuraciones ya podemos comenzar a montar nuestro servidor.
 `npm i mysql2`
 
 ### Con todo esto ya tenemos lo necesario para trabajar en nuestro proyecto.
+
+![alt text](https://github.com/guilleheizen/gdgshop/presentacion/09.jpg)
